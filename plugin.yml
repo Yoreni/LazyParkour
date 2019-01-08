@@ -1,0 +1,7 @@
+name: LazyParkour
+version: 1.0
+main: yoreni.plugin.main.Main
+author: Yoreni
+commands:
+  buildpk:
+    usage: /<command> <jumps>
